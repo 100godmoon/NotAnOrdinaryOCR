@@ -1,4 +1,4 @@
-# **Image Text Detection & Keyword Search with Tesseract, KMP, and Text-to-Speech**
+# **NotYourOrdinaryOCR**
 
 This project combines Optical Character Recognition (OCR) using **Tesseract** with a **KMP (Knuth-Morris-Pratt) string matching algorithm** to detect and highlight specific words in images. Additionally, the project integrates **text-to-speech (TTS)** capabilities to vocalize detected text.
 
